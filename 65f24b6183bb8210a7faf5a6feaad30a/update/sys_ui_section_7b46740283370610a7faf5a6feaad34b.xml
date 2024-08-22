@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Activity" section_id="7b46740283370610a7faf5a6feaad34b" sys_domain="global" table="sys_db_object" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>REL.sys_db_object.REL:4344f6f5bf1320001875647fcf0739ad</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-06 21:43:53</sys_created_on>
+            <sys_id>129132aa83bf8610a7faf5a6feaad3ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Activity" display_value="Activity" name="sys_db_object" sys_domain="global" view="Default view">7b46740283370610a7faf5a6feaad34b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-06 21:43:53</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-06 21:43:53</sys_created_on>
+            <sys_id>969132aa83bf8610a7faf5a6feaad3ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Activity" display_value="Activity" name="sys_db_object" sys_domain="global" view="Default view">7b46740283370610a7faf5a6feaad34b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-06 21:43:53</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Activity</caption>
+            <header>false</header>
+            <name>sys_db_object</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-04 23:28:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b46740283370610a7faf5a6feaad34b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_db_object</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Vehicle Request and Inventory 1" source="x_1112472_lva">65f24b6183bb8210a7faf5a6feaad30a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory 1">65f24b6183bb8210a7faf5a6feaad30a</sys_scope>
+            <sys_update_name>sys_ui_section_7b46740283370610a7faf5a6feaad34b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-04 23:28:16</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

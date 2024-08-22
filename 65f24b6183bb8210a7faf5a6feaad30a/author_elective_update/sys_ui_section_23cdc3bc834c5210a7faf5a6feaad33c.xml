@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Vehicle Servicing" section_id="23cdc3bc834c5210a7faf5a6feaad33c" sys_domain="global" table="x_1112472_lva_vehicle_tracker_table_and_form" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption>Vehicle Servicing</caption>
+            <header>false</header>
+            <name>x_1112472_lva_vehicle_tracker_table_and_form</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 23:33:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23cdc3bc834c5210a7faf5a6feaad33c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1112472_lva_vehicle_tracker_table_and_form</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Vehicle Request and Inventory 1" source="x_1112472_lva">65f24b6183bb8210a7faf5a6feaad30a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory 1">65f24b6183bb8210a7faf5a6feaad30a</sys_scope>
+            <sys_update_name>sys_ui_section_23cdc3bc834c5210a7faf5a6feaad33c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 23:33:28</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory 1">65f24b6183bb8210a7faf5a6feaad30a</application>
+        <file_path/>
+        <instance_id>ffc61d94db79311402d91729139619c2</instance_id>
+        <instance_name>dev182169</instance_name>
+        <name>sys_ui_section_23cdc3bc834c5210a7faf5a6feaad33c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Vehicle Servicing" section_id="23cdc3bc834c5210a7faf5a6feaad33c" sys_domain="global" table="x_1112472_lva_vehicle_tracker_table_and_form" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption>Vehicle Servicing</caption><header>false</header><name>x_1112472_lva_vehicle_tracker_table_and_form</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-13 23:33:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>23cdc3bc834c5210a7faf5a6feaad33c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1112472_lva_vehicle_tracker_table_and_form</sys_name><sys_overrides/><sys_package display_value="Loaner Vehicle Request and Inventory 1" source="x_1112472_lva">65f24b6183bb8210a7faf5a6feaad30a</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory 1">65f24b6183bb8210a7faf5a6feaad30a</sys_scope><sys_update_name>sys_ui_section_23cdc3bc834c5210a7faf5a6feaad33c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-13 23:33:28</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1752376241</payload_hash>
+        <record_name>Vehicle Tracker </record_name>
+        <reverted_from/>
+        <source>e1f24f2983bb8210a7faf5a6feaad377</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 23:33:29</sys_created_on>
+        <sys_id>37cdc3bc834c5210a7faf5a6feaad3d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1914e16e5a80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 23:33:29</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>bbcdc3bca54c5210dfdddf84ec9bc8cf</update_guid>
+        <update_guid_history>bbcdc3bca54c5210dfdddf84ec9bc8cf:-1752376241</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 23:34:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>075372d1479346bb88539e193bfb3a61</sys_id>
+        <sys_metadata>23cdc3bc834c5210a7faf5a6feaad33c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Servicing</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory 1" source="x_1112472_lva">65f24b6183bb8210a7faf5a6feaad30a</sys_package>
+        <sys_parent display_value="Vehicle Tracker ">1b5320ca83b30610a7faf5a6feaad38f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory 1">65f24b6183bb8210a7faf5a6feaad30a</sys_scope>
+        <sys_scope_delete display_value="">ba782dbfef7143ac8f138e94cf1c7510</sys_scope_delete>
+        <sys_update_name>sys_ui_section_23cdc3bc834c5210a7faf5a6feaad33c</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_23cdc3bc834c5210a7faf5a6feaad33c">37cdc3bc834c5210a7faf5a6feaad3d0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 23:34:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="DELETE">
+        <active>true</active>
+        <copy_empty_fields>false</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>LVA transform Map</name>
+        <order>100</order>
+        <run_business_rules>true</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>x_1112472_lva_lva_import</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-04 19:00:46</sys_created_on>
+        <sys_id>80a8f7f983ffc210a7faf5a6feaad3b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LVA transform Map</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory 1" source="x_1112472_lva">65f24b6183bb8210a7faf5a6feaad30a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory 1">65f24b6183bb8210a7faf5a6feaad30a</sys_scope>
+        <sys_update_name>sys_transform_map_80a8f7f983ffc210a7faf5a6feaad3b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-04 19:00:46</sys_updated_on>
+        <target_table>x_1112472_lva_loaner_vehicle_catalog</target_table>
+    </sys_transform_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory 1">65f24b6183bb8210a7faf5a6feaad30a</application>
+        <file_path/>
+        <instance_id>ffc61d94db79311402d91729139619c2</instance_id>
+        <instance_name>dev182169</instance_name>
+        <name>sys_transform_map_80a8f7f983ffc210a7faf5a6feaad3b0</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_map"&gt;&lt;sys_transform_map action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;copy_empty_fields&gt;false&lt;/copy_empty_fields&gt;&lt;create_new_record_on_empty_coalesce_fields&gt;false&lt;/create_new_record_on_empty_coalesce_fields&gt;&lt;enforce_mandatory_fields&gt;No&lt;/enforce_mandatory_fields&gt;&lt;name&gt;LVA transform Map&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;run_business_rules&gt;true&lt;/run_business_rules&gt;&lt;run_script&gt;false&lt;/run_script&gt;&lt;script&gt;&lt;![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]&gt;&lt;/script&gt;&lt;source_table&gt;x_1112472_lva_lva_import&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_map&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-08-04 19:00:46&lt;/sys_created_on&gt;&lt;sys_id&gt;80a8f7f983ffc210a7faf5a6feaad3b0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;LVA transform Map&lt;/sys_name&gt;&lt;sys_package display_value="Loaner Vehicle Request and Inventory 1" source="x_1112472_lva"&gt;65f24b6183bb8210a7faf5a6feaad30a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Loaner Vehicle Request and Inventory 1"&gt;65f24b6183bb8210a7faf5a6feaad30a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_map_80a8f7f983ffc210a7faf5a6feaad3b0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-08-04 19:00:46&lt;/sys_updated_on&gt;&lt;target_table&gt;x_1112472_lva_loaner_vehicle_catalog&lt;/target_table&gt;&lt;/sys_transform_map&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>944800355</payload_hash>
+        <record_name>LVA transform Map</record_name>
+        <reverted_from/>
+        <source>e1f24f2983bb8210a7faf5a6feaad377</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-04 19:00:46</sys_created_on>
+        <sys_id>5119fff983ffc210a7faf5a6feaad3ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1911ec3fc320000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-04 19:00:46</sys_updated_on>
+        <type>Table Transform Map</type>
+        <update_guid>9519fff930ffc2102b9ae456575519cd</update_guid>
+        <update_guid_history>9519fff930ffc2102b9ae456575519cd:944800355</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-04 20:10:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_map">sys_transform_map</sys_db_object>
+        <sys_id>121f0b3e79b74ea692f4bf5b00b48ae4</sys_id>
+        <sys_metadata>80a8f7f983ffc210a7faf5a6feaad3b0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LVA transform Map</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory 1" source="x_1112472_lva">65f24b6183bb8210a7faf5a6feaad30a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory 1">65f24b6183bb8210a7faf5a6feaad30a</sys_scope>
+        <sys_scope_delete display_value="">ba782dbfef7143ac8f138e94cf1c7510</sys_scope_delete>
+        <sys_update_name>sys_transform_map_80a8f7f983ffc210a7faf5a6feaad3b0</sys_update_name>
+        <sys_update_version display_value="sys_transform_map_80a8f7f983ffc210a7faf5a6feaad3b0">5119fff983ffc210a7faf5a6feaad3ce</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-04 20:10:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

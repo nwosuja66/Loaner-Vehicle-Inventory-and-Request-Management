@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3eacbab8830c5210a7faf5a6feaad34e" sys_domain="global" table="x_1112472_lva_vehicle_tracker_table_and_form" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 22:18:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3acbab8830c5210a7faf5a6feaad39d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1112472_lva_vehicle_tracker_table_and_form" name="x_1112472_lva_vehicle_tracker_table_and_form" sys_domain="global" view="Default view">3eacbab8830c5210a7faf5a6feaad34e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1112472_lva_vehicle_tracker_table_and_form" sys_domain="global" view="Default view">e073fc4e83f30610a7faf5a6feaad3b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 22:18:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 22:18:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cfacbab8830c5210a7faf5a6feaad39d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1112472_lva_vehicle_tracker_table_and_form" name="x_1112472_lva_vehicle_tracker_table_and_form" sys_domain="global" view="Default view">3eacbab8830c5210a7faf5a6feaad34e</sys_ui_form>
+            <sys_ui_section caption="Return Details" display_value="Return Details" name="x_1112472_lva_vehicle_tracker_table_and_form" sys_domain="global" view="Default view">36acbab8830c5210a7faf5a6feaad34c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 22:18:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 22:18:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bacbab8830c5210a7faf5a6feaad3a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1112472_lva_vehicle_tracker_table_and_form" name="x_1112472_lva_vehicle_tracker_table_and_form" sys_domain="global" view="Default view">3eacbab8830c5210a7faf5a6feaad34e</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_1112472_lva_vehicle_tracker_table_and_form" sys_domain="global" view="Default view">3eacbab8830c5210a7faf5a6feaad34d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 22:18:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1112472_lva_vehicle_tracker_table_and_form</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 22:18:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3eacbab8830c5210a7faf5a6feaad34e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1112472_lva_vehicle_tracker_table_and_form</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Vehicle Request and Inventory 1" source="x_1112472_lva">65f24b6183bb8210a7faf5a6feaad30a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory 1">65f24b6183bb8210a7faf5a6feaad30a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3eacbab8830c5210a7faf5a6feaad34e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 22:18:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="return_vehicle_status" table="x_1112472_lva_vehicle_tracker_table_and_form" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>return_vehicle_status</element>
+            <name>x_1112472_lva_vehicle_tracker_table_and_form</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-04 23:05:00</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>return_vehicle_status</sys_name>
+            <sys_package display_value="Loaner Vehicle Request and Inventory 1" source="x_1112472_lva">65f24b6183bb8210a7faf5a6feaad30a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory 1">65f24b6183bb8210a7faf5a6feaad30a</sys_scope>
+            <sys_update_name>sys_choice_x_1112472_lva_vehicle_tracker_table_and_form_return_vehicle_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-04 23:05:00</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>return_vehicle_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Returned in Good Condition</label>
+            <language>en</language>
+            <name>x_1112472_lva_vehicle_tracker_table_and_form</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-04 23:05:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-09 13:37:14</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>return_vehicle_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Returned in Good Condition</label>
+            <language>en</language>
+            <name>x_1112472_lva_vehicle_tracker_table_and_form</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-04 23:05:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-09 13:41:30</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>return_vehicle_status</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Returned in Good Condition</label>
+            <language>en</language>
+            <name>x_1112472_lva_vehicle_tracker_table_and_form</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-04 23:05:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>25</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-14 03:31:20</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>return_vehicle_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Returned with Minor Issues</label>
+            <language>en</language>
+            <name>x_1112472_lva_vehicle_tracker_table_and_form</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-09 13:43:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-09 13:43:28</sys_updated_on>
+            <value>returned with minor issues</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>return_vehicle_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Returned with Major Issues</label>
+            <language>en</language>
+            <name>x_1112472_lva_vehicle_tracker_table_and_form</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-09 13:43:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-09 13:43:28</sys_updated_on>
+            <value>returned with major issues</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
